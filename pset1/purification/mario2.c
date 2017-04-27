@@ -33,10 +33,7 @@ else if (i>=height+3 && i<=2*height+2) {
    {
        printf("#");
    }
-   for(k=height+3+i;k<=2*height+2;k++)
-   {
-       printf(" ");
-   }
+
 }
     }
    
