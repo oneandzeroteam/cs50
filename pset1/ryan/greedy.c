@@ -22,5 +22,4 @@ int main(void)
     w= r / 0.01;
     }
     while(money<=0);     printf("%d\n",x+y+z+w);
-
 }

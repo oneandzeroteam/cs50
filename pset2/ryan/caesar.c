@@ -9,11 +9,11 @@ int main(int argc, string argv [])
     int q,w,e,r;
     int i = 0;
     if (argc != 2)
-    {printf ("Usage: ./caesar k\n"); return 0;}
+    {printf ("Usage: ./caesar k\n"); return 1;}
     
-    int NUM = atoi(argv[1]);
-    eprintf("num is %i\n",NUM);
-    printf("plaintest:  ");
+    int K = atoi(argv[1]);
+    int NUM = K % 26;
+    printf("plaintext:  ");
     string s = get_string();
     printf("ciphertext: ");
     do
