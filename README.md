@@ -4,6 +4,28 @@ This is CS50
 ## What is this
 하나와영 CS50 저장소입니다
 
+## Problem Sets
+### Problem set 1
+- hello.c
+- water.c
+- *mario.c*
+- **mario.c**
+- *greedy.c*
+- **credit.c**
+
+### Problem set 2
+- *initials.c*
+- **initials.c**
+- *caesar.c*
+- *vigenere.c*
+- **crack.c**
+
+### Problem set 3
+- *find.c*
+- **find.c**
+- fifteen.c
+
+
 ## Rules
 1. 문제당 오천원
 2. 지각비 이만원
