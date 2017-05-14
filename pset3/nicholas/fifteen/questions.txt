@@ -1,0 +1,4 @@
+0. As fixed in the code's constant, from 3 by 3 to 9 by 9, inclusive.
+1. A two dimensional array
+2. A function called `greet`
+3. Functions `init`, `draw`, `move`, and `won`
